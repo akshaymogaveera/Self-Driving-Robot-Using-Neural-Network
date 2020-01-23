@@ -10,3 +10,20 @@
 
 ### For more detailed explanation, please view my IEEE paper titled <a href="https://ieeexplore.ieee.org/document/8533870" target="_blank">"Self Driving Robot using Neural Network"</a> or view <a href="https://drive.google.com/file/d/1H88Ns1iP7Ow5b2O4E5hxdy6M_rmgmLdV/view?usp=sharing">PDF</a> 
     
+    
+### A) Hardware Design
+    The Hardware components used for this project are as follows:
+    
+    1) Raspberry pi-3.
+    2. Pi Camera.
+    3. Robot (Chassis, Wheels (4), Motors (2).
+    4. Ultrasonic Sensor.
+    5. Motor control (L293D).
+    
+    Raspberry pi will work as a brain of the robot, which takes all the decision of the robot and live streams video to
+    the laptop. Ultrasonic sensor is used to calculate the distance of the obstacles ahead. Motor control IC is used to control
+    the motors. 
+### B) Software Used:-
+    1) Python(2.7)
+    2) TensorFlow
+    3) OpenCV
