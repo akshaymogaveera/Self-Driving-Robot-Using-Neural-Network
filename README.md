@@ -33,6 +33,7 @@
     3) OpenCV
 
 ## Working
+For details explanation about the model and working visit on the IEEE link given above.
 * Data Collection
     Images for training is collected by driving the robot.
     * Run File "" on Raspberry Pi and simultaneouly run File "" on your PC. A server client connection is established between Rpi and your computer. Ensure that they are on the same Network.
@@ -42,3 +43,11 @@
     * Tensorflow is used to create the model.
     * After sufficient data is collected, run file "" on your PC (Ensure all the paths in code is correct).
     * Training the model will take some time and post completion the model will be saved.
+* Final
+    * Ensure that the previous steps are completed without any errors.
+    * Run files "" and "" on raspberry pi simultaneously, parallely run file "" on your PC.
+ 
+ 
+ 
+ 
+# Credits <a href="https://github.com/hamuchiwa/">@hamuchiwa</a>, as I have followed his <a href="https://github.com/hamuchiwa/AutoRCCar">tutorial</a> and used some of his code.
