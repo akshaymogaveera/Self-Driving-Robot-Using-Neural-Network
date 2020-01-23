@@ -1,4 +1,4 @@
-## Self-Driving-Robot-Using-Neural-Network 
+# Self-Driving-Robot-Using-Neural-Network 
 ### Python + Tensorflow + OpenCV
 ### Overview
     1) The Robot uses neural network to learn and predict decisions just like human brains work.
@@ -31,3 +31,14 @@
     1) Python(2.7)
     2) TensorFlow
     3) OpenCV
+
+## Working
+* Data Collection
+    Images for training is collected by driving the robot.
+    * Run File "" on Raspberry Pi and simultaneouly run File "" on your PC. A server client connection is established between Rpi and your computer. Ensure that they are on the same Network.
+    * Pygame is used for driving the robot, it is driven by using Keyboard (w-forward, a-left, d-right). When a key is pressed the image with its label is saved.
+    * NumPy is used to save the data and its corresponding label.
+* Model Training
+    * Tensorflow is used to create the model.
+    * After sufficient data is collected, run file "" on your PC (Ensure all the paths in code is correct).
+    * Training the model will take some time and post completion the model will be saved.
