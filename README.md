@@ -8,5 +8,5 @@
     5) Raspberry Pi will stream the live feed to the laptop and the predictions will be sent back to the raspberry pi to execute these decisions.
     6) The raspberry pi will be connected to motor driver which will control the wheels of the bot. Ultrasonic sensor makes sure that the robot does not collide with anything. Once trained it can run autonomously and make its decisions.It will try to maintain its path along the track and prevent from collisions. 
 
-### For more detailed explanation, please view my IEEE paper titled <a href="https://ieeexplore.ieee.org/document/8533870" target="_blank">"Self Driving Robot using Neural Network"</a>
+### For more detailed explanation, please view my IEEE paper titled <a href="https://ieeexplore.ieee.org/document/8533870" target="_blank">"Self Driving Robot using Neural Network"</a> or view <a href="https://drive.google.com/file/d/1H88Ns1iP7Ow5b2O4E5hxdy6M_rmgmLdV/view?usp=sharing">PDF</a> 
     
