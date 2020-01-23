@@ -22,7 +22,7 @@
     5. Motor control (L293D).
     
     Raspberry pi will work as a brain of the robot, which takes all the decision of the robot and live streams video to
-    the laptop. Ultrasonic sensor is used to calculate the distance of the obstacles ahead. Motor control IC is used to control the         motors.
+    the laptop. Ultrasonic sensor is used to calculate the distance of the obstacles ahead.
     
 
 ![alt text](https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/pic2.png)
