@@ -43,7 +43,7 @@
 ## Working
 For details explanation about the model and working visit on the IEEE link given above.
 * **Data Collection**
-    Images for training is collected by driving the robot.
+    * Images for training is collected by driving the robot.
     * Run File **"rpi_connection_cam.py"** on Raspberry Pi and simultaneouly run File **"collect_images_via_rpi.py"** on your PC. A server client connection is established between Rpi and your computer. Ensure that they are on the same Network.
     * Pygame is used for driving the robot, it is driven by using Keyboard (w-forward, a-left, d-right). When a key is pressed the image with its label is saved.
     * NumPy is used to save the data and its corresponding label.
