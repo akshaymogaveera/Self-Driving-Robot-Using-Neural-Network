@@ -42,18 +42,18 @@
 
 ## Working
 For details explanation about the model and working visit on the IEEE link given above.
-* Data Collection
+* **Data Collection**
     Images for training is collected by driving the robot.
-    * Run File "rpi_connection_cam.py" on Raspberry Pi and simultaneouly run File "collect_images_via_rpi.py" on your PC. A server client connection is established between Rpi and your computer. Ensure that they are on the same Network.
+    * Run File **"rpi_connection_cam.py"** on Raspberry Pi and simultaneouly run File **"collect_images_via_rpi.py"** on your PC. A server client connection is established between Rpi and your computer. Ensure that they are on the same Network.
     * Pygame is used for driving the robot, it is driven by using Keyboard (w-forward, a-left, d-right). When a key is pressed the image with its label is saved.
     * NumPy is used to save the data and its corresponding label.
-* Model Training
+* **Model Training**
     * Tensorflow is used to create the model.
-    * After sufficient data is collected, run file "train_neural_network.py" on your PC (Ensure path where the model will be saved in code is correct).
+    * After sufficient data is collected, run file **"train_neural_network.py"** on your PC (Ensure path where the model will be saved in code is correct).
     * Training the model will take some time and post completion the model will be saved.
-* Final
+* **Final**
     * Ensure that the previous steps are completed without any errors.
-    * Run files "rpi_connection_cam.py" and "rpi_controlcar_distance.py" on raspberry pi simultaneously, parallely run file "run.py" on your PC.
+    * Run files **"rpi_connection_cam.py"** and **"rpi_controlcar_distance.py"** on raspberry pi simultaneously, parallely run file **"run.py"** on your PC.
  
  
  
