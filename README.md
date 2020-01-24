@@ -25,7 +25,13 @@
     the laptop. Ultrasonic sensor is used to calculate the distance of the obstacles ahead.
     
 
-![alt text](https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/pic2.png)
+
+
+<img src="https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/IMG_20180208_192412353.jpg" width="600" height="600">
+
+<img src="https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/pic2.png" width="600" height="600">
+
+
 
 ### B) Software Used:-
     1) Python(2.7)
