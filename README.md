@@ -41,7 +41,7 @@
     3) OpenCV
 
 ## Working
-For details explanation about the model and working visit on the IEEE link given above.
+For detailed explanation about the model and working visit on the IEEE link given above.
 * **Data Collection**
     * Images for training is collected by driving the robot.
     * Run File **"rpi_connection_cam.py"** on Raspberry Pi and simultaneouly run File **"collect_images_via_rpi.py"** on your PC. A server client connection is established between Rpi and your computer. Ensure that they are on the same Network.
