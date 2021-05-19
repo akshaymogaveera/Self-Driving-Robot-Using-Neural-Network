@@ -11,7 +11,7 @@
 ### For more detailed explanation, please view my IEEE paper titled <a href="https://ieeexplore.ieee.org/document/8533870" target="_blank">Self Driving Robot using Neural Network</a> or view <a href="https://drive.google.com/file/d/1H88Ns1iP7Ow5b2O4E5hxdy6M_rmgmLdV/view?usp=sharing">PDF</a> 
     
 ### Watch the Robot in Action !!
-<a href="https://photos.app.goo.gl/ajpMJDrQvKtk6TWy6" target="_blank">![alt text](https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/pic.png)"</a>
+<a href="https://youtu.be/ljr4xq2ozOs" target="_blank">![alt text](https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/pic.png)"</a>
 
     
 ### A) Hardware Design
