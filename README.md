@@ -13,6 +13,8 @@
 ### Watch the Robot in Action !!
 <a href="https://youtu.be/ljr4xq2ozOs" target="_blank">![alt text](https://github.com/akshay1997feb/Self-Driving-Robot-Using-Neural-Network/blob/master/pic.png)"</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljr4xq2ozOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     
 ### A) Hardware Design
    The Hardware components used for this project are as follows:
